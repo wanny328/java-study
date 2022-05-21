@@ -1,4 +1,4 @@
-package ifexample;
+package switchexample;
 
 import java.util.Scanner;
 
